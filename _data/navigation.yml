@@ -21,3 +21,5 @@ categories:
     children:
       - title: "Machine Learning"
         url: /categories/ml/
+      - title: "Mathematics"
+        url: /categories/math/
