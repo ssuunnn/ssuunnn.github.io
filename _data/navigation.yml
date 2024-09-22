@@ -9,8 +9,8 @@ main:
   - title: "GitHub"
     url: https://github.com/ssuunnn
 
-  # - title: "Projects"
-  #   url: /projects/
+  - title: "Tag"
+    url: /tags/
 
   # - title: "Categories"
   #   url: /categories/
