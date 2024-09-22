@@ -12,8 +12,8 @@ main:
   - title: "Tag"
     url: /tags/
 
-  # - title: "Categories"
-  #   url: /categories/
+  - title: "🔍"
+    url: /search/
 
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
