@@ -23,3 +23,10 @@ categories:
         url: /categories/ml/
       - title: "Mathematics"
         url: /categories/math/
+
+  - title: "Data Analysis"
+    children:
+      - title: "Practices"
+        url: /categories/practices/
+      - title: "Projects"
+        url: /categories/projects/
